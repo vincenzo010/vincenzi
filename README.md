@@ -1,5 +1,4 @@
-# vincenzi
-ho&lt;
+
 -- Create ScreenGui
 local screenGui = Instance.new("ScreenGui")
 screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
